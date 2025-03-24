@@ -10,7 +10,11 @@ The instances, grouped by demand factor and order quantity, are stored in the In
 The "Summary of results.xlsx" file contains the results for each experiment-instance, including Objective Value, Runtime, and Status.
 
 The model implementation is provided in "LotSizing.ipynb", developed using:
+
     Programming Language: Julia
+    
     Platform: JupyterLab
+    
     Modeling Language: JuMP
+    
     Solver: HiGHS
